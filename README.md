@@ -1,2 +1,2 @@
-# hello-world
-Repository for new projects
+DE-101/Module1/
+Repository for homework
